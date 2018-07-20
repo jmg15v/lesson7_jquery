@@ -1,0 +1,3 @@
+I first used $("h3").first() to view the first word that is a size h3 heading. I found in the details that the first word is Ingredients.
+I then used $("h3").height() to learn the height of the words that are h3 heading. i learned they are size 18 font.
+I lastly used $("h3").next().clone().appendTo("article") to clone all of the elements next to any h3 word. 
